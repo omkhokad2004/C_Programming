@@ -1,5 +1,5 @@
 /*
-   Author: [Your Name]
+   Author: Om Badsha Khokad
    Date : 10/04/2023
    Program : Accept one number from user and print that number of(*) on screen.
 */
