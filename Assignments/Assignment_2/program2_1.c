@@ -1,6 +1,6 @@
 /*
    Author: Om Badsha Khokad
-   Date : 10/04/2023
+   Date : 18/10/2026
    Program: Accept one number from user and print that number of(*) on screen.
 
 */
