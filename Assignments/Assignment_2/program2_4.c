@@ -1,6 +1,6 @@
 /*
    Author:Om Badsha Khokad
-    Date : 10/04/2023
+    Date : 18/10/2026
     Program: Accept two numbers from user and display first number of second number of times on screen.
 
     Input:12 5
