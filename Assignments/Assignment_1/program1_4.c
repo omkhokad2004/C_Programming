@@ -1,6 +1,6 @@
 /*
     Author : Om Badsha Khokad
-    Date : 10/04/2023
+    Date : 18/10/2026
     Program : Write a program which accept number from user and check whether that number is divisible by 5 or not.
 
 */
