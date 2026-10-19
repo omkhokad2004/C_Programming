@@ -1,6 +1,6 @@
 /*
    Author: Om Badsha Khokad
-    Date : 10/04/2023
+    Date : 18/10/2026
     Program: Write a program which accept one number from user and if number is less than 10 then print "Hello" otherwise print "Demo" on screen.
 
 */
