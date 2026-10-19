@@ -1,6 +1,6 @@
 /*
     Author: Om Badsha Khokad
-    Date : 10/04/2023
+    Date : 19/10/2026
     Program: Write a program which accept one number from user and print that number of even numbers on screen.
 
      Input: 7
