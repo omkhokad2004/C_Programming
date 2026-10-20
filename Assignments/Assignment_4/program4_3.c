@@ -1,6 +1,6 @@
 /*
    Author: Om Badsha Khokad
-   Date: 20/10/26
+   Date: 21/10/26
    Problem Statement:Accept two integer and determine which number is greater.If both numbers are equal,
    display an appropiate message.
    
