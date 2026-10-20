@@ -1,6 +1,6 @@
 /*
    Author: Om Badsha Khokad
-   Date: 20/10/26
+   Date: 21/10/26
    Problem Statement: Accept an integer from the user and determine whether it is even or odd an even number is completely divisible by 2
     
    Input:24 --> Even Number
