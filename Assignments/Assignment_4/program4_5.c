@@ -1,6 +1,6 @@
 /*
    Author: Om Badsha Khokad
-   Date: 20/10/26
+   Date: 21/10/26
    Problem Statement: Accept an integer and determine whether it is divisible by 5 without leaving any reaminder.
    
    Input:45 --> Divisible by 5
