@@ -1,6 +1,6 @@
 /*
    Author: Om Badsha Khokad
-   Date: 20/10/26
+   Date: 21/10/26
    Problem Statement: Accept the age of a person and determine whether the person is eligible to vote. A person must be at least 18 years old to vote.Anegative age should be considered invalid.
    
    Input:21 --> Eligible for Voting
