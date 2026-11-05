@@ -1,0 +1,35 @@
+/*
+   Author: Om Badsha Khokad
+   Date: 04/11/26
+   Problem Statement: Write a program which accept number from user and display its factors in decreasing order
+   
+   Input:12
+   Output:5 7 8 9 10 11
+
+*/
+#include<stdio.h>
+#include<stdlib.h>
+void FactRev (int iNo)
+{
+    int iCnt=0;
+    for(iCnt=iNo;iCnt>=1;iCnt--)
+    {
+        if(iNo%iCnt!=0)
+        {
+            printf("%d\n",iCnt);
+        }
+
+    }
+  
+}
+int main()
+{
+    int iValue=0;
+
+    printf("Enter number\n");
+    scanf("%d",&iValue);
+
+    FactRev(iValue);
+
+    return EXIT_SUCCESS;
+}
